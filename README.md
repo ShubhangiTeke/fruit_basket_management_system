@@ -1,10 +1,10 @@
-# 🍎 Fruit Basket Management System
+#  Fruit Basket Management System
 
 A menu-driven Java console application that demonstrates Object-Oriented Programming (OOP) concepts such as abstraction, inheritance, polymorphism, encapsulation, and method overriding.
 
 ---
 
-## 📌 Features
+## Features
 
 - Add Apple, Mango, and Orange to the basket
 - Display all fruit names
@@ -15,7 +15,7 @@ A menu-driven Java console application that demonstrates Object-Oriented Program
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Java
 - Object-Oriented Programming (OOP)
@@ -23,7 +23,7 @@ A menu-driven Java console application that demonstrates Object-Oriented Program
 
 ---
 
-## 🧠 OOP Concepts Used
+##  OOP Concepts Used
 
 - Abstraction
 - Inheritance
@@ -33,7 +33,7 @@ A menu-driven Java console application that demonstrates Object-Oriented Program
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Fruit-Basket-Management-System
@@ -44,7 +44,7 @@ Fruit-Basket-Management-System
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone this repository.
 2. Open the project in Eclipse, IntelliJ IDEA, or VS Code.
@@ -55,7 +55,7 @@ Fruit-Basket-Management-System
 
 ---
 
-## 📋 Menu Options
+##  Menu Options
 
 ```
 0. Exit
@@ -71,7 +71,7 @@ Fruit-Basket-Management-System
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 This project helped me understand:
 
@@ -87,7 +87,7 @@ This project helped me understand:
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Use `ArrayList` instead of arrays
 - Add search functionality
@@ -97,7 +97,7 @@ This project helped me understand:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Shubhangi Teke**
 
